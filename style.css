@@ -326,6 +326,81 @@ header .navbar ul li a:hover{
     cursor: pointer;
 }
 
+/* PROGRESS BAR STARTS */
+
+/* java core */
+
+.javaCore {
+    background-color: black;
+    border-radius: 13px;
+    /* (height of inner div) / 2 + padding */
+    padding: 3px;
+    margin-top: 10px;
+  }
+  
+  .javaCore>div {
+    background-color: orange;
+    width: 60%;
+    /* Adjust with JavaScript */
+    height: 20px;
+    border-radius: 10px;
+  }
+
+  /* java advanced */
+  .javaAdvanced {
+    background-color: black;
+    border-radius: 13px;
+    /* (height of inner div) / 2 + padding */
+    padding: 3px;
+    margin-top: 10px;
+  }
+  
+  .javaAdvanced>div {
+    background-color: orange;
+    width: 70%;
+    /* Adjust with JavaScript */
+    height: 20px;
+    border-radius: 10px;
+  }
+
+  /* android */
+  .android {
+    background-color: black;
+    border-radius: 13px;
+    /* (height of inner div) / 2 + padding */
+    padding: 3px;
+    margin-top: 10px;
+  }
+  
+  .android>div {
+    background-color: orange;
+    width: 50%;
+    /* Adjust with JavaScript */
+    height: 20px;
+    border-radius: 10px;
+  }
+
+  /* java script */
+
+  .javaScript {
+    background-color: black;
+    border-radius: 13px;
+    /* (height of inner div) / 2 + padding */
+    padding: 3px;
+    margin-top: 10px;
+  }
+  
+  .javaScript>div {
+    background-color: orange;
+    width: 60%;
+    /* Adjust with JavaScript */
+    height: 20px;
+    border-radius: 10px;
+  }
+  
+
+  /* PROGRESSBAR ENDS */
+
 /* .portfolio .box-container .box img{
     height:100%;
     width:100%;
